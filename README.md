@@ -6,4 +6,4 @@ Available for research and low latency engineering work.
 
 Quang Nhan . quangnhan239@gmail.com
 
-Published measurement: https://github.com/Sea-Sand-Sunlight/monad-mev-measurement
+Published measurement: https://github.com/Sea-Sand-Sunlight/Monad-MEV-Measurement
